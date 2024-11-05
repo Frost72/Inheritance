@@ -1,0 +1,7 @@
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\bin\Debug\ООП лаба 4.exe.config
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\bin\Debug\ООП лаба 4.exe
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\bin\Debug\ООП лаба 4.pdb
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\obj\Debug\ООП лаба 4.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\obj\Debug\ООП лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\obj\Debug\ООП лаба 4.exe
+C:\Users\sasha\source\repos\ООП лаба 4\ООП лаба 4\obj\Debug\ООП лаба 4.pdb
